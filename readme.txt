@@ -59,7 +59,7 @@ TinyEMU System Emulator by Fabrice Bellard
 
   Terminal:
 
-  ./temu https://bellard.org/jslinux/buildroot-riscv64.cfg
+  ./temu -ctrlc https://bellard.org/jslinux/buildroot-riscv64.cfg
 
   Graphical (with SDL):
 
